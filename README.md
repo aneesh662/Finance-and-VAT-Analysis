@@ -1,6 +1,9 @@
 
-# Finance and VAT Analysis Dashboard
 
+
+## Project Link
+You can access the project [here]([link_to_project](https://app.powerbi.com/view?r=eyJrIjoiNmJlNmMxNDktNzU3My00OGRlLTgwNDAtZDZlZTk1NjM0OTdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9a16e7fbda5e88ca073b)). 
+# Finance and VAT Analysis Dashboard
 This project features a comprehensive Finance and VAT Analysis Dashboard designed to provide insights into a business's financial performance. The dashboard is structured with multiple sections, allowing users to easily navigate and analyze key financial metrics.
 
 ## Menu Overview

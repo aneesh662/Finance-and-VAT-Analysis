@@ -1,13 +1,12 @@
 
 
-
-## Project Link
+# Finance and VAT Analysis Dashboard
 
 ![Patient Dashboard](https://github.com/aneesh662/Finance-and-VAT-Analysis/blob/b8eda061d6195df43a639547d5dd2e1997904749/image.JPG)
 You can view the project : [Project Link Link](https://app.powerbi.com/view?r=eyJrIjoiNmJlNmMxNDktNzU3My00OGRlLTgwNDAtZDZlZTk1NjM0OTdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9a16e7fbda5e88ca073b)
 
 
-# Finance and VAT Analysis Dashboard
+
 This project features a comprehensive Finance and VAT Analysis Dashboard designed to provide insights into a business's financial performance. The dashboard is structured with multiple sections, allowing users to easily navigate and analyze key financial metrics.
 
 ## Menu Overview
